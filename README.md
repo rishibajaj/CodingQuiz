@@ -25,7 +25,7 @@ NB. As the highscores are only stored in local storage, you will only see the sc
 Here is a screenshot of the deployed application:
 
 
-![Screenshot of Code Quiz](./assets/screenshot/Screenshot-Coding-Quiz.png)
+![Screenshot of Code Quiz](./assets/Screenshot-Coding-Quiz.png)
 
 
 ## License
