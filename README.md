@@ -9,7 +9,7 @@ The app runs in the browser and features dynamically updated HTML and CSS powere
 
 The deployed application can be found at:
 
-https://rishibajaj.github.io/Coding-Quiz/
+https://rishibajaj.github.io/CodingQuiz/
 
 
 ## Usage 
